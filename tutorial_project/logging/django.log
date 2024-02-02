@@ -1,0 +1,5 @@
+INFO 2024-02-03 00:11:50,627 autoreload 9964 11936Watching for file changes with StatReloader
+INFO 2024-02-03 00:12:13,387 autoreload 9964 11936C:\Users\ЗемляНика\Documents\Учеба миша\Django GB\tutorial_project\myapp\views.py changed, reloading.
+INFO 2024-02-03 00:12:15,118 autoreload 11140 11164Watching for file changes with StatReloader
+INFO 2024-02-03 00:13:29,094 autoreload 11140 11164C:\Users\ЗемляНика\Documents\Учеба миша\Django GB\tutorial_project\myapp\views.py changed, reloading.
+INFO 2024-02-03 00:13:30,811 autoreload 11160 7548Watching for file changes with StatReloader
